@@ -1,5 +1,11 @@
-Step1:installed telegram
-Step2:called BotFather
-Step3:/start
-Step4: create new bot /newbot and give name to the bot. 
-Step5: after give user name and get token.
+Step 1:install telegram and login with you phone number 
+Step 2:Go to search and type " BotFather " 
+Step 3:click ok  on " BotFather" 
+Step 4: type  " /start " and send 
+Step 5:something come from BotFather and go to " /newbot " and click ok
+Step 6: something come from BotFather like this " Alright,
+ a new bot. How are we going to call it?" 
+ Please choose a name for your bot. "
+Step 7: example: sagar123Bot or Sagar786_bot. Type and send
+Step 8: when your name valid BotFather send you message successful congratulation
+Step 9: BotFather send your " API " and use this API in your Practical. 
