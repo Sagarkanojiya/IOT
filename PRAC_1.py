@@ -20,9 +20,4 @@ def handle(msg):
 TelegramBot.message_loop(handle)
 
 
-1.https://api.telegram.org/bot1383450593:AAGnS_SbZbQdgeJCA_dAu7FnSpgmxdxYgo4/sendMessage?chat_id=1336458104&text=TestReply 
 
-2.Getme: https://api.telegram.org/bot1383450593:AAGnS_SbZbQdgeJCA_dAu7FnSpgmxdxYgo4/getMe
-
-3.getupdates
-https://api.telegram.org/bot1383450593:AAGnS_SbZbQdgeJCA_dAu7FnSpgmxdxYgo4/getUpdates
